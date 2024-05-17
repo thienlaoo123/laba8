@@ -1,0 +1,1 @@
+Задание гитхаб. Организовать публичное хранилище для любой лабораторной работы и оформить его примерно так https://github.com/oseledets/nla2021 GitHub - oseledets/nla2021: The repository for Skolech NLA2021 github.com
